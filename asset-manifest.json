@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfoliojeremie/static/css/main.e897f35b.css",
+    "main.js": "/portfoliojeremie/static/js/main.4e5db18a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfoliojeremie/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SUPRA SIGNALISATION.png": "/portfoliojeremie/static/media/SUPRA SIGNALISATION.9f8fdba939507795adca.png",
+    "static/media/CV.pdf": "/portfoliojeremie/static/media/CV.d8205549fddb8e247421.pdf",
+    "static/media/TERRASSE DIVERSIMMO.png": "/portfoliojeremie/static/media/TERRASSE DIVERSIMMO.2cbbc5cd9fc4fe8b3a98.png",
+    "static/media/moi.jpg": "/portfoliojeremie/static/media/moi.3ea948f42b38461d49da.jpg",
+    "index.html": "/portfoliojeremie/index.html",
+    "main.e897f35b.css.map": "/portfoliojeremie/static/css/main.e897f35b.css.map",
+    "main.4e5db18a.js.map": "/portfoliojeremie/static/js/main.4e5db18a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfoliojeremie/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e897f35b.css",
+    "static/js/main.4e5db18a.js"
+  ]
+}
