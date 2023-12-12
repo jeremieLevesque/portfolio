@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3b49f284.css",
+    "main.css": "/portfolio/static/css/main.de7cc7e0.css",
     "main.js": "/portfolio/static/js/main.112da657.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SUPRA SIGNALISATION.png": "/portfolio/static/media/SUPRA SIGNALISATION.9f8fdba939507795adca.png",
@@ -9,12 +9,12 @@
     "static/media/TERRASSE DIVERSIMMO.png": "/portfolio/static/media/TERRASSE DIVERSIMMO.2cbbc5cd9fc4fe8b3a98.png",
     "static/media/moi.jpg": "/portfolio/static/media/moi.3ea948f42b38461d49da.jpg",
     "index.html": "/portfolio/index.html",
-    "main.3b49f284.css.map": "/portfolio/static/css/main.3b49f284.css.map",
+    "main.de7cc7e0.css.map": "/portfolio/static/css/main.de7cc7e0.css.map",
     "main.112da657.js.map": "/portfolio/static/js/main.112da657.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b49f284.css",
+    "static/css/main.de7cc7e0.css",
     "static/js/main.112da657.js"
   ]
 }
