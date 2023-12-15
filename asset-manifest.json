@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.58eff4f5.css",
+    "main.css": "/portfolio/static/css/main.4802d2cc.css",
     "main.js": "/portfolio/static/js/main.29ceccf8.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SUPRA SIGNALISATION.png": "/portfolio/static/media/SUPRA SIGNALISATION.9f8fdba939507795adca.png",
@@ -13,12 +13,12 @@
     "static/media/SUPRA_PIED_DE_PAGE.png": "/portfolio/static/media/SUPRA_PIED_DE_PAGE.09a0867e7ac4f47a6acf.png",
     "static/media/TERRASSE_PIED_DE_PAGE.png": "/portfolio/static/media/TERRASSE_PIED_DE_PAGE.895efeca4ca60953f52d.png",
     "index.html": "/portfolio/index.html",
-    "main.58eff4f5.css.map": "/portfolio/static/css/main.58eff4f5.css.map",
+    "main.4802d2cc.css.map": "/portfolio/static/css/main.4802d2cc.css.map",
     "main.29ceccf8.js.map": "/portfolio/static/js/main.29ceccf8.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58eff4f5.css",
+    "static/css/main.4802d2cc.css",
     "static/js/main.29ceccf8.js"
   ]
 }
