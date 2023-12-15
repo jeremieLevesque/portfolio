@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1b297689.css",
-    "main.js": "/portfolio/static/js/main.2ee38ffd.js",
+    "main.css": "/portfolio/static/css/main.e347c9cb.css",
+    "main.js": "/portfolio/static/js/main.29ceccf8.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SUPRA SIGNALISATION.png": "/portfolio/static/media/SUPRA SIGNALISATION.9f8fdba939507795adca.png",
     "static/media/SUPRA_ACCUEIL.png": "/portfolio/static/media/SUPRA_ACCUEIL.cfee5f45f5af2ad494ff.png",
     "static/media/SUPRA_CATALOGUES.png": "/portfolio/static/media/SUPRA_CATALOGUES.d38fbca2352d0edc78c1.png",
     "static/media/billytallentcomplet.png": "/portfolio/static/media/billytallentcomplet.6d22c431f45778878a27.png",
     "static/media/CV.pdf": "/portfolio/static/media/CV.d8205549fddb8e247421.pdf",
-    "static/media/SUPRA_PRODUIT.png": "/portfolio/static/media/SUPRA_PRODUIT.2938180c64a3aed7219f.png",
     "static/media/TERRASSE DIVERSIMMO.png": "/portfolio/static/media/TERRASSE DIVERSIMMO.2cbbc5cd9fc4fe8b3a98.png",
-    "static/media/SUPRA_PRODUIT_DETAIL.png": "/portfolio/static/media/SUPRA_PRODUIT_DETAIL.fab0c72fe7aea70b8e13.png",
     "static/media/moi.jpg": "/portfolio/static/media/moi.3ea948f42b38461d49da.jpg",
     "static/media/SUPRA_PIED_DE_PAGE.png": "/portfolio/static/media/SUPRA_PIED_DE_PAGE.09a0867e7ac4f47a6acf.png",
     "static/media/TERRASSE_PIED_DE_PAGE.png": "/portfolio/static/media/TERRASSE_PIED_DE_PAGE.895efeca4ca60953f52d.png",
     "index.html": "/portfolio/index.html",
-    "main.1b297689.css.map": "/portfolio/static/css/main.1b297689.css.map",
-    "main.2ee38ffd.js.map": "/portfolio/static/js/main.2ee38ffd.js.map",
+    "main.e347c9cb.css.map": "/portfolio/static/css/main.e347c9cb.css.map",
+    "main.29ceccf8.js.map": "/portfolio/static/js/main.29ceccf8.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b297689.css",
-    "static/js/main.2ee38ffd.js"
+    "static/css/main.e347c9cb.css",
+    "static/js/main.29ceccf8.js"
   ]
 }
