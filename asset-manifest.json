@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8b42cda7.css",
-    "main.js": "/portfolio/static/js/main.ecb53f0e.js",
+    "main.css": "/portfolio/static/css/main.0d578546.css",
+    "main.js": "/portfolio/static/js/main.5eef8f6e.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SUPRA SIGNALISATION.png": "/portfolio/static/media/SUPRA SIGNALISATION.9f8fdba939507795adca.png",
     "static/media/SUPRA_ACCUEIL.png": "/portfolio/static/media/SUPRA_ACCUEIL.cfee5f45f5af2ad494ff.png",
@@ -13,12 +13,12 @@
     "static/media/SUPRA_PIED_DE_PAGE.png": "/portfolio/static/media/SUPRA_PIED_DE_PAGE.09a0867e7ac4f47a6acf.png",
     "static/media/TERRASSE_PIED_DE_PAGE.png": "/portfolio/static/media/TERRASSE_PIED_DE_PAGE.895efeca4ca60953f52d.png",
     "index.html": "/portfolio/index.html",
-    "main.8b42cda7.css.map": "/portfolio/static/css/main.8b42cda7.css.map",
-    "main.ecb53f0e.js.map": "/portfolio/static/js/main.ecb53f0e.js.map",
+    "main.0d578546.css.map": "/portfolio/static/css/main.0d578546.css.map",
+    "main.5eef8f6e.js.map": "/portfolio/static/js/main.5eef8f6e.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b42cda7.css",
-    "static/js/main.ecb53f0e.js"
+    "static/css/main.0d578546.css",
+    "static/js/main.5eef8f6e.js"
   ]
 }
